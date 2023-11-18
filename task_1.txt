@@ -1,0 +1,4 @@
+git init: initializes a new git repo
+git config: set git configurations as username and pass
+git merge: merges two branches
+git remote: controls repos remotly
